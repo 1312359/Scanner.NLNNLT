@@ -1,0 +1,7 @@
+if else 34 "string" 
+'\n'
+"string"
+// comment
+continue
+/* ksgkrshgkrhg
+sgsgrgrgsg esfsef */
