@@ -1,0 +1,45 @@
+1 {
+2 -
+3 INTLITERAL: 123
+4 -
+5 IDENTIFIER: a35
+6 ,
+7 IDENTIFIER: id3a
+8 ,
+9 +
+10 *
+11 ;
+12 }
+13 [
+14 ||
+15 ==
+16 =
+17 !=
+18 (
+19 )
+20 &&
+21 ]
+22 <
+23 >
+24 <=
+25 >=
+26 =
+27 IDENTIFIER: a
+28 [
+29 INTLITERAL: 24
+30 ]
+31 =
+32 CHARLITERAL: '7'
+33 ;
+34 IDENTIFIER: n
+35 !=
+36 if
+37 ;
+38 BOOLEANLITERAL: false
+39 ,
+40 -
+41 if
+42 ;
+43 IDENTIFIER: true32
+44 ;
+45 IDENTIFIER: forpar
